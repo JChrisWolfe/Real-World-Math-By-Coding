@@ -28,8 +28,7 @@ This website will teach using programming languages
 - Website is created Mobile-first and then Response Design.
     - (Optional) Includes e-reader books e.g. Amazon Kindle, NOOK Books, etc.
 - Source Codes are constructed with as little Modules or Libraries as possible.
-- Programming languages and required programs to use the programming languages
-are free and open source.
+- Programming languages and required programs to use the programming languages are free and open source.
     - IF the closed source languages are popular enough then they maybe included in
     tutorials with the author's permission
 - Source Codes are beginner friendly.
@@ -38,7 +37,7 @@ are free and open source.
 
 ## Out-of-Scope:
 - For Javascript, no frameworks are used.
-- No HTML or CSS Frameworks used
+- No HTML or CSS Frameworks used.
 - The website will not teach individuals how to program,
 however individuals may refer and teach the basics of IDEs, APIs, 
 Text Editors, Operating Systems, and compliers used plus extentions
