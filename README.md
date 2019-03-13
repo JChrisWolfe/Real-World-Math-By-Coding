@@ -22,7 +22,7 @@ is the "R" programming language.
 This website will teach using programming languages
 
 ## Scope:
-- Website is constructed with HTML5, CSS3, Javascript
+- Website is constructed with HTML5, CSS3, Javascript and/or Bootstrap 4.
 - Website is created with Usability and Disability in mind.
     - Disabilty includes: Cognitive, Limited Visual and Hearing.
 - Website is created Mobile-first and then Response Design.
@@ -36,8 +36,7 @@ This website will teach using programming languages
 - Each Math code example are run on their own files and are not concatinated together or all-in-one.
 
 ## Out-of-Scope:
-- For Javascript, no frameworks are used.
-- No HTML or CSS Frameworks used.
+- For Javascript, no frameworks are used unless necessary like D3.js for data science topics.
 - The website will not teach individuals how to program,
 however individuals may refer and teach the basics of IDEs, APIs, 
 Text Editors, Operating Systems, and compliers used plus extentions
